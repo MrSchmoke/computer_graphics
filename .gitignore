@@ -1,2 +1,5 @@
 .vscode
 *.dSYM
+.DS_Store
+*.exe
+*.test
