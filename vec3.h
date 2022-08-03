@@ -50,6 +50,7 @@ class vec3 {
 };
 
 //Type aliases for vec3
+
 using point3 = vec3; //3d point
 using color = vec3;  //3d color
 
